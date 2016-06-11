@@ -1,0 +1,188 @@
+/*==============   ENLACE FUENTES (INICIO)   ===============*/
+@font-face {
+	font-family: "my_riad_pro_regular";
+	src: url(../font/MyriadPro-Regular.otf) format("opentype");
+}
+/*==============   ENLACE FUENTES (FIN)   ===============*/
+
+
+/*==============   ESTILOS GENERALES (INICIO)   ===============*/
+body{
+	margin: 0;
+}
+/*==============   ESTILOS GENERALES (FIN)   ===============*/
+
+
+/*==============   ESTILOS LOGO Y BOTONES (INICIO)   ===============*/
+.logo-boton{
+	display: flex;
+	margin-top: 10px;
+}
+.boton-izq, .boton-der{
+	height: 100px;
+	width: 100px;
+}
+.boton-izq{
+	background: url(../img/boton-facebook.jpg);
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 200% 100%;
+	transition: all 0.01s;
+}
+.boton-izq:hover{
+	background-position: right;
+}
+.boton-der{
+	background: url(../img/boton-correo.jpg);
+	background-position: right;	
+	background-repeat: no-repeat;
+	background-size: 200% 100%;
+	transition: all 0.01s;
+}
+.boton-der:hover{
+	background-position: left;
+}
+.logo{
+	margin: 0 auto;
+	width: 450px;
+}
+.logo img{
+	width: 100%;
+}
+
+.menu-principal{
+	border-top: 10px solid #6C943E;
+	display: flex;
+	justify-content: center;
+	position: relative;
+}
+.menu-principal a{
+	color: #6C943E;
+	margin: 0 8%;
+	margin-top: -12px;
+	text-decoration: none;
+	width: 120px;
+}
+.botones{
+	text-align: center;
+	width: 100%;
+}
+.botones img{
+	width: 60%;
+}
+.botones p{
+	font-family: "my_riad_pro_regular";
+	margin-bottom: 0;
+	margin-top: 5px;
+}
+.linea-verde{
+	background-color: #6C943E;
+	height: 10px;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+/*==============   ESTILOS LOGO Y BOTONES (FIN)   ===============*/
+
+
+
+/*==============   ESTILOS DEL CONTENIDO DEL INDEX (INICIA)   ===============*/
+.contenido-index{
+	font-family: "my_riad_pro_regular";
+	margin: 0 auto;
+	width: 70%;
+}
+.casa-calma{
+	display: flex;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	width: 100%;
+}
+.img1{
+	margin-right: 5%;
+	width: 45%
+}
+.img1 img, .img2 img, .img3 img{
+	width: 100%;
+}
+.text1{
+	width: 50%;
+}
+.yoga{
+	display: flex;
+	margin-bottom: 5%;
+	width: 100%;
+}
+.text2{
+	margin-right: 5%;
+	width: 45%;
+}
+.img2{
+	width: 50%;
+}
+.tapita-huerta{
+	display: flex;
+	margin-bottom: 5%;
+	width: 100%;
+}
+.img3{
+	margin-right: 5%;
+	width: 45%;
+}
+.text3{
+	width: 50%;
+}
+.text1 h3, .text2 h3, .text3 h3{
+	color: #B1977F;
+	font-size: 1.5em;
+	font-weight: lighter;
+	margin-bottom: 10px;
+}
+.text1 p, .text2 p, .text3 p{
+	margin-bottom: 10%;
+	text-align: justify;
+	width: 80%;
+}
+.text1 a, .text2 a, .text3 a{
+	border: 1px solid #B1977F;
+	color: #B1977F;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+.linea-titulo{
+	background-color: #B1977F;
+	height: 2px;
+	width: 40px;
+}
+.img-derecha{
+	position: absolute;
+	top: 90%;
+	right: 0;
+	width: 180px;
+}
+.img-izquierda{
+	left: 0;
+	position: absolute;
+	top: 155%;
+	width: 150px;
+}
+/*==============   ESTILOS DEL CONTENIDO DEL INDEX (FIN)   ===============*/
+
+
+
+/*==============   ESTILOS DEL FOOTER (INICIO)   ===============*/
+footer{
+	background-color: #B1977F;
+	color: white;
+	font-family: "my_riad_pro_regular";
+	padding: 5px 0;
+	text-align: center;
+}
+footer img{
+	transition: all 0.5s;
+	width: 100px;
+}
+footer img:hover{
+	transform: scale(1.1,1.1);
+}
+/*==============   ESTILOS DEL FOOTER (FIN)   ===============*/
