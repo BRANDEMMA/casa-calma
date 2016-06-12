@@ -39,54 +39,64 @@
 		?>
 	</header>
 
-	<div class="contenido-index">
-		<div class="casa-calma">
-			<div class="img1">
-				<img src="img/imagen1.jpg">
-			</div>
-			<div class="text1">
-				<h3>CASA CALMA</h3>
+	<div class="contenido-nosotros">
+
+		<div class="tit-nosotros">
+			<h2>CASA CALMA</h2>	
+			<div class="linea-tit-verde"></div>
+
+			<p>Casa Calma es un espacio creado para poder conectar con nuestro ser.<br> Al conectar con nuestra alma logramos tener esa sensación de serenidad dentro del movimiento de la vida.</p>
+		</div>
+
+		<div class="contenedor-inspiracion">
+			<img src="img/casa-calma-nosotros-1.jpg">
+			<div class="text-nosotros">
+				<h3>Inspiración</h3>
 				<div class="linea-titulo"></div>
 
 				<p>
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
 				</p>
-
-				<a href="casa-calma.php">+Ver Más</a>
 			</div>
 		</div>
 
-		<div class="yoga">
-			<div class="text2">
-				<h3>YOGA</h3>
+		<div class="contenedor-mision">
+			<img src="img/casa-calma-nosotros-1.jpg">
+			<div class="text-nosotros">
+				<h3>Misión</h3>
 				<div class="linea-titulo"></div>
 
 				<p>
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
 				</p>
-
-				<a href="yoga.php">+Ver Más</a>
-			</div>
-			<div class="img2">
-				<img src="img/imagen2.jpg">
 			</div>
 		</div>
 
-		<div class="tapita-huerta">
-			<div class="img3">
-				<img src="img/imagen3.jpg">
-			</div>
-			<div class="text3">
-				<h3>TAPITA DE PUERTA</h3>
+		<div class="contenedor-alma">
+			<img src="img/casa-calma-nosotros-1.jpg">
+			<div class="text-nosotros">
+				<h3>Alma</h3>
 				<div class="linea-titulo"></div>
 
 				<p>
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
 				</p>
-
-				<a href="tapita-de-huerta.php">+Ver Productos</a>
 			</div>
 		</div>
+
+		<div class="contenedor-quienes">
+			<img src="img/casa-calma-nosotros-1.jpg">
+			<div class="text-nosotros">
+				<h3>Quiénes Somos</h3>
+				<div class="linea-titulo"></div>
+
+				<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
+				</p>
+			</div>
+		</div>
+
+		<a class="boton-home" href="index.php">Regresar al Home</a>
 	</div>
 
 	<img class="img-derecha" src="img/borde1.jpg">

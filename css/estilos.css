@@ -158,13 +158,15 @@ body{
 	position: absolute;
 	top: 90%;
 	right: 0;
-	width: 180px;
+	width: 14%;
+	z-index: -1;
 }
 .img-izquierda{
 	left: 0;
 	position: absolute;
 	top: 155%;
-	width: 150px;
+	width: 11%;
+	z-index: -1;
 }
 /*==============   ESTILOS DEL CONTENIDO DEL INDEX (FIN)   ===============*/
 
@@ -186,3 +188,273 @@ footer img:hover{
 	transform: scale(1.1,1.1);
 }
 /*==============   ESTILOS DEL FOOTER (FIN)   ===============*/
+
+
+
+
+
+/*==============   ESTILOS DE LA SECCION "NOSOTROS" (INICIO)   ===============*/
+.contenido-nosotros{
+	display: flex;
+	flex-wrap: wrap;
+	font-family: "my_riad_pro_regular";
+	margin: 0 auto;
+	padding-bottom: 5%;
+	width: 70%;
+}
+.contenido-nosotros h3{
+	color: #B1977F;
+	font-size: 1.5em;
+	font-weight: lighter;
+	margin-bottom: 10px;
+}
+.tit-nosotros{
+	margin-bottom: 5%;
+	margin-top: 5%;
+	text-align: center;
+	width: 100%;
+}
+.tit-nosotros h2{
+	color: #6C943E;
+	font-weight: lighter;
+	font-size: 1.5em;
+	margin-bottom: 10px;
+}
+.linea-tit-verde{
+	background-color: #6C943E;
+	height: 2px;
+	margin: 0 auto;
+	width: 50px;
+}
+.contenedor-inspiracion{
+	margin-bottom: 5%;
+	margin-right: 4%;
+	width: 48%;
+}
+.contenedor-mision{
+	margin-bottom: 5%;
+	width: 48%;
+}
+.contenedor-alma{
+	margin-bottom: 5%;
+	margin-right: 4%;
+	width: 48%;
+}
+.contenedor-quienes{
+	margin-bottom: 5%;
+	width: 48%;
+}
+.contenedor-inspiracion img, .contenedor-mision img, .contenedor-alma img, .contenedor-quienes img{
+	width: 100%;
+}
+.text-nosotros{
+	margin: 0 auto;
+	text-align: justify;
+	width: 80%;
+}
+.boton-home{
+	background-color: #6C943E;
+	color: white;
+	margin: 0 auto;
+	padding: 8px 15px;
+	text-decoration: none;
+}
+/*==============   ESTILOS DE LA SECCION "NOSOTROS" (FIN)   ===============*/
+
+
+
+
+
+
+
+
+/*==============   ESTILOS DE LA SECCION "YOGA" (INICIO)   ===============*/
+.contenido-yoga{
+	font-family: "my_riad_pro_regular";
+	margin: 0 auto;
+	padding-bottom: 5%;
+	text-align: center;
+	width: 70%;
+}
+.tipos-yoga{
+	display: flex;
+	margin-bottom: 5%;
+	width: 100%;
+}
+.tit-yoga{
+	margin: 5% 0;
+	width: 100%;
+}
+.tit-yoga h2{
+	color: #6C943E;
+	font-weight: lighter;
+	font-size: 1.5em;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.tipos-yoga h3{
+	color: #B1977F;
+	font-size: 1.5em;
+	font-weight: lighter;
+	margin-bottom: 10px;
+}
+.yoga-text, .yoga-img{
+	width: 48%;
+}
+.yoga-text{
+	text-align: justify;
+}
+.yoga-img img{
+	width: 100%;
+}
+.espaciado{
+	margin-right: 4%;
+}
+/*==============   ESTILOS DE LA SECCION "YOGA" (FIN)   ===============*/
+
+
+
+
+
+
+/*==============   ESTILOS DE LA SECCION "TAPITA DE HUERTA" (INICIO)   ===============*/
+.contenido-tapita{
+	display: flex;
+	flex-wrap: wrap;
+	font-family: "my_riad_pro_regular";
+	justify-content: center;
+	margin: 0 auto;
+	padding-bottom: 5%;
+	text-align: center;
+	width: 70%;
+}
+.tit-tapita h2{
+	color: #6C943E;
+	font-weight: lighter;
+	font-size: 1.5em;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.productos-tapita{
+	display: flex;
+	margin-bottom: 5%;
+	width: 100%;
+}
+.producto-tapita{
+	margin-bottom: 5%;
+	width: 25%;
+}
+.producto-tapita h3{
+	color: #B1977F;
+	font-weight: lighter;
+	margin-bottom: 10px;
+}
+.producto-tapita img{
+	width: 70%;
+}
+.linea-titulo2{
+	background-color: #B1977F;
+	height: 2px;
+	margin: 0 auto;
+	width: 60px;
+}
+.espaciado{
+	margin: 0 7%;
+	margin-bottom: 5%;
+}
+/*==============   ESTILOS DE LA SECCION "TAPITA DE HUERTA" (FIN)   ===============*/
+
+
+
+
+
+
+/*==============   ESTILOS DE LA SECCION "CONTACTO" (INICIO)   ===============*/
+.contenido-contacto{
+	display: flex;
+	flex-wrap: wrap;
+	font-family: "my_riad_pro_regular";
+	width: 100%;
+}
+.tit-contacto{
+	margin: 3% 0;
+	padding-left: 8%;
+	width: 92%;
+}
+.tit-contacto h2{
+	color: #B1977F;
+	font-size: 1.5em;
+	margin-bottom: 10px;
+}
+.formulario{
+	margin-left: 6%;
+	margin-top: 5%;
+	width: 24%;
+}
+.formulario h3{
+	color: #B1977F;
+	font-weight: lighter;
+	margin-bottom: 10px;
+}
+.formulario form{
+	margin-top: 5%;
+}
+.formulario label{
+	color: #B1977F;
+}
+.formulario input{
+	border: 1px solid black;
+	width: 65%;
+}
+.formulario textarea{
+	border: 1px solid black;
+	height: 50px;
+	width: 64%;
+}
+.formulario button{
+	background-color: #B1977F;
+	border: none;
+	color: white;
+	font-family: "my_riad_pro_regular";
+	margin-left: 8%;
+	padding: 3px 20px;
+}
+.contenido-contacto img{
+	width: 70%;
+}
+
+
+.error {
+	color: red;
+	display: none;
+	font-family: "my_riad_pro_regular";
+	padding-top: 5px;
+}
+
+#ajaxsuccess {
+	clear:both;
+	display: none;
+	font-family: "my_riad_pro_regular";
+	font-size:18px;
+	font-weight:bold;
+	padding-bottom: 10px;
+	width: 100%;
+}
+.verde{
+	color: #346b2f;
+}
+.info-contacto{
+	margin-top: 30%;
+}
+.info-contacto a{
+	color: #B1977F;
+	text-decoration: none;
+}
+.info-contacto p{
+	line-height: 2;
+}
+.info-contacto img{
+	margin-bottom: -5px;
+	width: 20px;
+}
+/*==============   ESTILOS DE LA SECCION "CONTACTO" (FIN)   ===============*/
