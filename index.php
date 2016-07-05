@@ -49,7 +49,7 @@
 				<div class="linea-titulo"></div>
 
 				<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
+				Casa Calma es un espacio creado para conectar con nuestra naturaleza, donde podemos hacer una pausa y tomar consciencia de nosotros mismos estando en calma dentro del movimiento de nuestras vidas diarias.
 				</p>
 
 				<a href="casa-calma.php">+Ver Más</a>
@@ -62,7 +62,8 @@
 				<div class="linea-titulo"></div>
 
 				<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
+				La práctica de yoga nos permite tener un momento de relajación para conectar con nosotros mismos, ayudándonos a manejar el estrés y sentirnos bien con nosotros mismos. Yoga es la experiencia de la unidad, que todo lo contiene, tanto dentro de nosotros mismos como en relación a lo que nos rodea, todo es uno.<br><br>
+				La práctica se yoga se puede realizar a través de diferentes estilos que tienen secuencias y técnicas distintas, pero todas tienen en común preparar al cuerpo para la meditación o incluyen la meditación en el movimiento. La meditación calma las fluctuaciones de nuestra mente y nos conecta con nuestra esencia natural, con nuestra alma, con el Universo.
 				</p>
 
 				<a href="yoga.php">+Ver Más</a>
@@ -81,7 +82,7 @@
 				<div class="linea-titulo"></div>
 
 				<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
+				En Tapita de Huerta creamos alimentos artesanales saludables y al ritmo de los mantras. 
 				</p>
 
 				<a href="tapita-de-huerta.php">+Ver Productos</a>

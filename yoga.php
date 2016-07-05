@@ -51,7 +51,7 @@
 				<div class="linea-titulo"></div>
 
 				<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
+				La práctica grupal se realiza en grupos pequeños de máximo 8 alumnos y dura 1,5 horas con una linda vista al verde del parque.
 				</p>
 			</div>
 			<div class="yoga-img">
@@ -68,7 +68,7 @@
 				<div class="linea-titulo"></div>
 
 				<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
+				Algunas personas prefieren tener una práctica de Yoga más personalizada y adaptada a su propia situación, tomando en cuenta sus horarios, condiciones físicas y búsqueda específica en la práctica del yoga. Esto se puede hacer con una práctica individual coordinando un horario privado en uno de nuestros espacios
 				</p>
 			</div>
 		</div>

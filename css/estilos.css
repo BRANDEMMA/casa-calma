@@ -149,6 +149,11 @@ body{
 	padding: 5px 10px;
 	text-decoration: none;
 }
+.text1 a:hover, .text2 a:hover, .text3 a:hover{
+	border: 1px solid #B1977F;
+	background-color: #B1977F;
+	color: white;
+}
 .linea-titulo{
 	background-color: #B1977F;
 	height: 2px;
@@ -258,6 +263,12 @@ footer img:hover{
 	margin: 0 auto;
 	padding: 8px 15px;
 	text-decoration: none;
+}
+.boton-home:hover{
+	background-color: white;
+	border: 1px solid #6C943E;
+	color: #6C943E;
+	padding: 6px 15px;
 }
 /*==============   ESTILOS DE LA SECCION "NOSOTROS" (FIN)   ===============*/
 
