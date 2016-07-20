@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>CASA CALMA</title>
+	<title>CASA CALMA - CONTACTO</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="" />
 	

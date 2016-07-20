@@ -6,7 +6,7 @@
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width" />
-	<title>CASA CALMA</title>
+	<title>CASA CALMA - YOGA</title>
 	<meta name="author" content="Brandemma" />
 	<meta name="description" content="" />
 	
@@ -43,6 +43,7 @@
 		<div class="tit-yoga">
 			<h2>YOGA</h2>
 			<div class="linea-tit-verde"></div>
+			<p></p>
 		</div>
 
 		<div class="tipos-yoga">
@@ -79,7 +80,9 @@
 				<div class="linea-titulo"></div>
 
 				<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
+				Clases de Hatha Yoga:<br><br>
+				Lunes y miércoles de 8:00 a 9:30 am<br><br>
+				Martes y jueves de 7:30 a 9:00 pm
 				</p>
 			</div>
 			<div class="yoga-img">
@@ -96,7 +99,8 @@
 				<div class="linea-titulo"></div>
 
 				<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac ex ut nisl consequat dignissim. Suspendisse ac tellus tellus. Morbi feugiat mi nisi, a cursus ante rutrum vitae. Fusce interdum justo eget ultrices iaculis. Sed enim velit, sollicitudin sed vestibulum at, tristique at est. Nam non purus id ex ornare malesuada non sit amet orci. Donec in mattis massa. Aliquam elit lectus, bibendum ut tristique sed, vestibulum sed ante.
+				Clases de Kundalini Yoga:<br><br>
+				Viernes de 8:00 a 11:00 am Yoga & Arte
 				</p>
 			</div>
 		</div>
